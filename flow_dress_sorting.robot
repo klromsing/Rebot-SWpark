@@ -5,7 +5,7 @@ Resource   ./pages/welcome.robot
 
 *** Variables ***
 ${URL}        http://automationpractice.com
-${BROWSER}    gc
+${BROWSER}    ie
 
 *** Test Cases *** 
 sorting by price
